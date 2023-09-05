@@ -1,0 +1,11 @@
+#container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+#buttonChange{
+    margin: 16px;
+}
+#text{
+    margin: 16px; 
+}
